@@ -1,6 +1,6 @@
 # Body Measurements Computer Vision
 
-![Demo](https://github.com/shaikamirgh/Body-Measurements-Doppelganger/OUTPUT/s7.jpg)
+![Demo](https://github.com/shaikamirgh/Body-Measurements-Doppelganger/blob/main/OUTPUT/s7.jpg)
 Do Check-Out OUTPUT folder for Results!
 
 ## Inspiration
